@@ -1,5 +1,5 @@
 # CP_sheet_striver_solved
-Will try to solve in serial questions from CP sheet by Striver. 
+Will  solve in serial questions from CP sheet by Striver. 
 "Solutions are accepted-sol of codeforces" 
 "FUN AND CODING"
 "CODE N CODE"
